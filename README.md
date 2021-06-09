@@ -1,4 +1,4 @@
-# Contect-Manager
+# Contect-Manager-Practice
 ## Function
 * Press[0] to save & exit
 * Press[1] to execute listAll
