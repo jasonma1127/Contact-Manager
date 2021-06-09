@@ -10,4 +10,5 @@
 
 **Remember to `Press [0]` to save the data and it will generate a contactManager.txt**
 
-![image] (https://github.com/jasonma1127/Contect-Manager-Practice/blob/main/image.jpg)
+## Example : contactManager.txt
+![image](https://github.com/jasonma1127/Contect-Manager-Practice/blob/main/image.jpg)
