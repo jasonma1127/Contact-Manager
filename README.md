@@ -1,4 +1,4 @@
-# cat
+# Contact Manager
 ## Function
 * Press[0] to save & exit
 * Press[1] to execute listAll
